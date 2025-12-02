@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "30eb4969ba33a199",
+    "type": "split",
+    "children": [
+      {
+        "id": "87630a141366f937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb790f3045c1d556",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Campaign/4.（敌人卡）林中⼤屋 The House in the Woods.canvas",
+                "viewState": {
+                  "x": 293.57635548346275,
+                  "y": 681.394418417562,
+                  "zoom": 0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "4.（敌人卡）林中⼤屋 The House in the Woods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1adfbd0d327288b",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a056e5aab0312d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79cc9ec0adbfcc23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72389fe33a281843",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10ec5c50dab041d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37f6d93ab2a68097",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc51cad89a94b793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59656bc21977b154",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pathfinder/Shadow of Otari/Act 0  - The Path to Otari.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Act 0  - The Path to Otari"
+            }
+          },
+          {
+            "id": "305c6497c64a4937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pathfinder/Shadow of Otari/Act 0  - The Path to Otari.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Act 0  - The Path to Otari"
+            }
+          },
+          {
+            "id": "ecbe568fea238f53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dec35337c690e60c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pathfinder/Shadow of Otari/Act 0  - The Path to Otari.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Act 0  - The Path to Otari"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daggerforge:DaggerForge menu": false
+    }
+  },
+  "active": "eb790f3045c1d556",
+  "lastOpenFiles": [
+    "狂野逐羊/狂野逐羊 Campaign/4.（地图） 林中⼤屋 The House in the Woods.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/4.（敌人卡）林中⼤屋 The House in the Woods.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/5. 艰难的决定 Big Choices.md",
+    "狂野逐羊/狂野逐羊 Misc/诺克.png",
+    "狂野逐羊/狂野逐羊 Campaign/3. 尘埃落定之后 After the Dust Settles.md",
+    "狂野逐羊/狂野逐羊 Campaign/2.（敌人卡）牧⽺⼈，恶棍们 Shepherds, Crooks.canvas",
+    "狂野逐羊/狂野逐羊.base",
+    "狂野逐羊/狂野逐羊 Campaign/2. 牧⽺⼈，恶棍们 Shepherds, Crooks.md",
+    "狂野逐羊/狂野逐羊 Campaign/1. 坏坏…坏消息 Baaaa-d News.md",
+    "狂野逐羊/狂野逐羊 Campaign/0. 综述 Summary.md",
+    "verbose-log-gdrive-plugin.md",
+    "Shadow of the Slithering/第一幕：欧特里风波/0. 第一幕：欧特里风波.md",
+    "Shadow of the Slithering/序章：欧特里之下的威胁/1. 鱼厂地窖.md",
+    "Shadow of the Slithering/序章：欧特里之下的威胁/0. 序章：欧特里之下的威胁.md",
+    "Shadow of the Slithering/序章：欧特里之下的威胁/鱼厂地窖/1 - 1. 鱼厂内部.md",
+    "Shadow of the Slithering/序章：欧特里之下的威胁/鱼厂地窖",
+    "Shadow of the Slithering/第一幕：欧特里风波/1. 憔光塔重燃微光.md",
+    "Shadow of the Slithering/Canvas.canvas",
+    "Shadow of the Slithering/欧特里.md",
+    "Shadow of the Slithering/第一幕：欧特里风波/2. 费伊·林特尔的失踪.md",
+    "Shadow of the Slithering/第一幕：欧特里风波/3. 红袍追踪.md",
+    "Shadow of the Slithering/序章：欧特里之下的威胁",
+    "Shadow of the Slithering/第一幕：欧特里风波/4. 炼金术士的旧棚屋.md",
+    "error-log-gdrive-plugin.md",
+    "Shadow of the Slithering/第一幕：欧特里风波",
+    "Shadow of the Slithering/Act I - Trouble in Otari.md",
+    "Pathfinder/The Tireless Path/_book_The Tireless Path.md",
+    "Shadow of the Slithering",
+    "Pathfinder/Shadow of Otari/_overview_The Shadowed Prophecy.md",
+    "Pathfinder/Shadow of Otari/Act 0  - The Path to Otari.md",
+    "Pathfinder/Shadow of Otari/Act 1 - Menace Under Otari.md",
+    "奥塔里的阴影/概述_欧特里的阴影.md",
+    "奥塔里的阴影",
+    "Pathfinder/Blackwell's Cruse/_plot_Blackwell's Cruse.md",
+    "Pathfinder/Blackwell's Cruse/_flowchart_Blackwell's Cruse.canvas",
+    "Pathfinder/Blackwell's Cruse/_session_Blackwell's Cruse/8d. Questions & Check/About Pendant (Perception or Insight).md",
+    "Pathfinder/Blackwell's Cruse/_session_Blackwell's Cruse/7. Butler's Room.md",
+    "Pathfinder/Blackwell's Cruse/_session_Blackwell's Cruse/_clues_Blackwell's  Cruse",
+    "Pathfinder/Blackwell's Cruse/_details_Blackwell's Cruse/_maps_Blackwell's Cruse/_map3_Blackwell's Dungeon/Blackwell's Dungeon.png",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Pathfinder/Blackwell's Cruse/_details_Blackwell's Cruse/_maps_Blackwell's Cruse/_map3_Blackwell's Dungeon",
+    "Pathfinder/Blackwell's Cruse/_session_Blackwell's Cruse/8d. Questions & Check",
+    "Pathfinder/Blackwell's Cruse/_session_Blackwell's Cruse/8d. Questions & Check",
+    "Pathfinder/Blackwell's Cruse/Untitled.canvas",
+    "Pasted image 20240921173301.png",
+    "Pasted image 20240921173241.png"
+  ]
+}

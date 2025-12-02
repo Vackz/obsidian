@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b095ab46cc67bfe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Misc/林中大屋.png"
+              },
+              "icon": "lucide-image",
+              "title": "林中大屋"
+            }
+          },
+          {
+            "id": "535b54742dc42389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Campaign/4. 林中⼤屋 The House in the Woods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. 林中⼤屋 The House in the Woods"
+            }
+          },
+          {
+            "id": "9306002caf29ab19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Campaign/5. 艰难的决定 Big Choices.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. 艰难的决定 Big Choices"
+            }
+          },
+          {
+            "id": "3c219c45421b36cf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Campaign/4.（地图） 林中⼤屋 The House in the Woods.canvas",
+                "viewState": {
+                  "x": 66.56711046469314,
+                  "y": 164.8314931827478,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "4.（地图） 林中⼤屋 The House in the Woods"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d328d9c88c9924b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b23fdaab5a04f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca992b3fb5a2741",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bfddd1a363469b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6892217d3dda7b35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bf38472e0267b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e970f28d2c7d03cc",
+        "type": "tabs",
+        "dimension": 35.2112676056338,
+        "children": [
+          {
+            "id": "742509d0617ba177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8018e3a8a332b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a9ca0918a63b1bb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e77a53da69c0fcce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "13a69a0903f4d41b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8404a291e882a0b",
+        "type": "tabs",
+        "dimension": 64.78873239436619,
+        "children": [
+          {
+            "id": "45635c42071643bd",
+            "type": "leaf",
+            "state": {
+              "type": "adversary-view",
+              "state": {},
+              "icon": "venetian-mask",
+              "title": "Adversary Browser"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daggerforge:DaggerForge menu": false,
+      "obsidian-importer:Open Importer": false,
+      "homepage:Open homepage": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-gdrive-sync:Upload Current File": false,
+      "obsidian-gdrive-sync:Download Current File": false
+    }
+  },
+  "active": "5ca992b3fb5a2741",
+  "lastOpenFiles": [
+    "狂野逐羊/狂野逐羊 Campaign/4.（地图） 林中⼤屋 The House in the Woods.canvas",
+    "DnD 5e - Playing Card Character Sheet - Fillable PDF.pdf",
+    "风啸堡之龙",
+    "狂野逐羊/狂野逐羊 Campaign/2.（敌人卡）牧⽺⼈，恶棍们 Shepherds, Crooks.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/4.（敌人卡）林中⼤屋 The House in the Woods.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/4. 林中⼤屋 The House in the Woods.md",
+    "狂野逐羊/狂野逐羊 Misc/诺克.png",
+    "狂野逐羊/狂野逐羊 Misc/林中大屋.png",
+    "狂野逐羊/狂野逐羊 NPC/古兹 Guz.md",
+    "狂野逐羊/狂野逐羊 Campaign/2. 牧⽺⼈，恶棍们 Shepherds, Crooks.md",
+    "狂野逐羊/狂野逐羊 NPC/芬塞尔·闪布莱特 Finethir Shinebright.md",
+    "狂野逐羊/狂野逐羊 NPC/阿西穆德·诺克 Ahmed Noke.md",
+    "狂野逐羊/狂野逐羊 NPC/阿西穆德-诺克.md",
+    "狂野逐羊/狂野逐羊 Campaign/3. 尘埃落定之后 After the Dust Settles.md",
+    "狂野逐羊/完全变形魔杖.md",
+    "狂野逐羊/狂野逐羊 Campaign/5. 艰难的决定 Big Choices.md",
+    "狂野逐羊/狂野逐羊 Campaign/1. 坏坏…坏消息 Baaaa-d News.md",
+    "狂野逐羊/狂野逐羊 Campaign/0. 综述 Summary.md",
+    "verbose-log-gdrive-plugin.md",
+    "狂野逐羊/狂野逐羊.base",
+    "error-log-gdrive-plugin.md",
+    "狂野逐羊/狂野逐羊 NPC/完全变形魔杖 Wand of True Polymorph.md",
+    "pendingSync-gdrive-plugin",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1764134211760.md",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1764134304413.md",
+    "_debug_remotely_save",
+    "狂野逐羊/Untitled.base",
+    "闪.md",
+    "狂野逐羊/狂野逐羊 Misc",
+    "Pasted image 20251126101929.png",
+    "THUMBNAIL(original).jpg",
+    "狂野逐羊/狂野逐羊 敌人/狼 wolves.md",
+    "狂野逐羊/狂野逐羊 敌人",
+    "**古兹 Guz**.md",
+    "狂野逐羊/狂野逐羊 战役/Untitled.base",
+    "狂野逐羊/狂野逐羊 Campaign",
+    "Obisidian/IMG_20240919_134903_251.jpg",
+    "Welcome.md",
+    "Obisidian/Print Count.md",
+    "Obisidian/Untitled 1.md",
+    "Obisidian/verbose-log-gdrive-plugin.md"
+  ]
+}

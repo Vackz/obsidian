@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdccd403c00380d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31686c9aa4cdd05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狂野逐羊/狂野逐羊 Campaign/5. 艰难的决定 Big Choices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. 艰难的决定 Big Choices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d328d9c88c9924b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b23fdaab5a04f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca992b3fb5a2741",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bfddd1a363469b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6892217d3dda7b35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bf38472e0267b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e970f28d2c7d03cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e25754ff337e739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "风啸堡之龙/风啸堡之龙 原本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "风啸堡之龙 原本"
+            }
+          },
+          {
+            "id": "742509d0617ba177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "风啸堡之龙/风啸堡之龙 原本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 风啸堡之龙 原本"
+            }
+          },
+          {
+            "id": "8018e3a8a332b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "风啸堡之龙/风啸堡之龙 原本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 风啸堡之龙 原本"
+            }
+          },
+          {
+            "id": "a9ca0918a63b1bb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e77a53da69c0fcce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "13a69a0903f4d41b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "风啸堡之龙/风啸堡之龙 原本.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 风啸堡之龙 原本"
+            }
+          },
+          {
+            "id": "348181497d34f862",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daggerforge:DaggerForge menu": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "31686c9aa4cdd05e",
+  "lastOpenFiles": [
+    "狂野逐羊/狂野逐羊 Campaign/4.（敌人卡）林中⼤屋 The House in the Woods.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/4.（地图） 林中⼤屋 The House in the Woods.canvas",
+    "狂野逐羊/狂野逐羊 Campaign/5. 艰难的决定 Big Choices.md",
+    "狂野逐羊/完全变形魔杖.md",
+    "狂野逐羊/狂野逐羊 Campaign/3. 尘埃落定之后 After the Dust Settles.md",
+    "狂野逐羊/狂野逐羊 Campaign/2. 牧⽺⼈，恶棍们 Shepherds, Crooks.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/矮人挖掘任务/（敌人卡） 矮人挖掘任务.canvas",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/矮人挖掘任务/矮人挖掘任务.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/矮人挖掘任务/矮人挖掘任务地图.png",
+    "风啸堡之龙/风啸堡之龙 原本.md",
+    "达兹琳·灰石.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/幽暗岭/幽暗岭 地图.webp",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/幽暗岭/幽暗岭.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/做好最坏的打算.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/幽暗岭/(敌人卡） 幽暗岭.canvas",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/矮人挖掘任务",
+    "风啸堡之龙/风啸堡之龙 背景设定/人物/风暴巨龙 雷颚.md",
+    "Pasted image 20251128113454.png",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算/幽暗岭",
+    "风啸堡之龙/风啸堡之龙 背景设定/Act 1：做好最坏的打算",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/巴森补给品.md",
+    "风啸堡之龙/综述.md",
+    "萨弗拉斯神殿.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/凡达林故事表.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/幸运神殿.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/凡达林矿工交易所.md",
+    "散塔林会.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/石丘客栈.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/狮盾商贩.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林/凡达林.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/三猪镇.md",
+    "托布伦·石丘.md",
+    "古尔西亚斯树.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/冒险背景.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/被遗忘的国度.md",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾/凡达林",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度/剑湾",
+    "风啸堡之龙/风啸堡之龙 背景设定/被遗忘的国度",
+    "风啸堡之龙/风啸堡之龙 背景设定/人物/塔洛斯教派/塔洛斯的隐士",
+    "风啸堡之龙/风啸堡之龙 背景设定/人物/塔洛斯教派",
+    "风啸堡之龙/风啸堡之龙 背景设定/人物",
+    "风啸堡之龙/Attachments/风啸堡之龙 2.png",
+    "风啸堡之龙/Attachments/风啸堡之龙 1.jpeg",
+    "风啸堡之龙/Attachments/风啸堡之龙 1.png",
+    "风啸堡之龙/Attachments/风啸堡之龙.jpeg",
+    "风啸堡之龙/Attachments/风啸堡之龙.png",
+    "Untitled.canvas",
+    "风啸堡之龙/Attachments/风啸堡之龙 29.png",
+    "风啸堡之龙/Attachments/风啸堡之龙 28.png",
+    "狂野逐羊/狂野逐羊 Campaign/2.（敌人卡）牧⽺⼈，恶棍们 Shepherds, Crooks.canvas"
+  ]
+}
